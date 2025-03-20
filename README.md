@@ -23,5 +23,5 @@ This project involves an interactive sales dashboard created in Microsoft Excel 
 
 📌 **Regular fat items dominate**: Sales of **regular fat content** items are **almost twice as much** as low-fat items.
 
-**DashBoard Images**
+**DashBoard Image**
 ![Full Dashboard](DashBoard_Images/DashBoard.jpg)
